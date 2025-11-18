@@ -1,3 +1,0 @@
-1.- 'git init'
-2.- 'git branch -m main'
-3.- 'echo 'Ruben Juan Candela' >> ruben.txt'
